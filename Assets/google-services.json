@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717914903564",
+    "firebase_url": "https://kingly-vatra.firebaseio.com",
+    "project_id": "kingly-vatra",
+    "storage_bucket": "kingly-vatra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717914903564:android:6bc5ff04e4709a94b94a29",
+        "android_client_info": {
+          "package_name": "com.HBX.Practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717914903564-78g8l849a1d6mtkk5a6up986e476376g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HBX.Practice",
+            "certificate_hash": "8e353f8c01cdab40c68ec9ed63d78716a45d19ba"
+          }
+        },
+        {
+          "client_id": "717914903564-8nkvnpf4k4tlfrvhgf41k77tqcm4lv3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2ISrpwYI3odaFZLrmG4txtX_AtkjVqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717914903564-8nkvnpf4k4tlfrvhgf41k77tqcm4lv3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
