@@ -38,6 +38,49 @@
             {
               "client_id": "717914903564-8nkvnpf4k4tlfrvhgf41k77tqcm4lv3t.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "717914903564-18sbboge2u5kvc6f9cfplrk0t740406v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HornbillFX.Krakit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717914903564:android:9000e1459542b43fb94a29",
+        "android_client_info": {
+          "package_name": "com.HornbillFX.Krakit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717914903564-8nkvnpf4k4tlfrvhgf41k77tqcm4lv3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2ISrpwYI3odaFZLrmG4txtX_AtkjVqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717914903564-8nkvnpf4k4tlfrvhgf41k77tqcm4lv3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717914903564-18sbboge2u5kvc6f9cfplrk0t740406v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.HornbillFX.Krakit"
+              }
             }
           ]
         }

@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "12cbbbe1",
         "name": "com.HBX.Practice",
-        "processId": 16518,
+        "processId": 4319,
         "exited": true
     },
     "m_SelectedPriority": 0,
@@ -18,6 +18,24 @@
             "deviceId": "12cbbbe1",
             "name": "com.HBX.Practice",
             "processId": 16518,
+            "exited": true
+        },
+        {
+            "deviceId": "12cbbbe1",
+            "name": "com.HBX.Practice",
+            "processId": 31997,
+            "exited": true
+        },
+        {
+            "deviceId": "12cbbbe1",
+            "name": "com.HBX.Practice",
+            "processId": 3302,
+            "exited": true
+        },
+        {
+            "deviceId": "12cbbbe1",
+            "name": "com.HBX.Practice",
+            "processId": 4319,
             "exited": true
         }
     ],
